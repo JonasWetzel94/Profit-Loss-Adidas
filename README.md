@@ -117,3 +117,10 @@ This project converts a raw Bloomberg income statement export for adidas AG (FY2
 - Leveraging helper columns to standardize and clean raw financial data
 
 ---
+
+## Quick Skills Snapshot
+- Financial statement preparation & reconciliation  
+- Advanced Excel data cleaning and lookup methods  
+- Building automated reconciliation and validation checks  
+- Executive-level visualization of multi-year financial trends  
+- Bloomberg export processing and transformation 
