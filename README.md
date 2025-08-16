@@ -2,6 +2,8 @@
 
 ## Visual Overview
 ![Revenue & EBIT% FY2019–FY2023](assets/bloomberg-revenue-chart.png)
+<img width="612" height="353" alt="image" src="https://github.com/user-attachments/assets/bd63b4d5-cedb-432a-87d5-471425b4ef7c" />
+
 
 ---
 
@@ -116,14 +118,3 @@ This project converts a raw Bloomberg income statement export for adidas AG (FY2
 - Leveraging helper columns to standardize and clean raw financial data
 
 ---
-
-## Repo Structure
-```text
-.
-├─ data/
-│  └─ Bloomberg data_Task 3.xlsx
-├─ assets/
-│  └─ bloomberg-revenue-chart.png
-├─ excel/
-│  └─ Adidas_PnL_Report.xlsx
-└─ README.md
